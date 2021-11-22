@@ -1,1 +1,1 @@
-# gitclog
+# clog2github
